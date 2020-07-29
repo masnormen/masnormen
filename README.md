@@ -1,16 +1,19 @@
-### Hi there 👋
+<h1 align="center">Hello! I'm Nourman Hajar</h1>
+<h3 align="center">A Front-End Engineer, Linux Hobbyist, and CS Student. Curious and have a deep love for coding.</h3>
 
-<!--
-**masnormen/masnormen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=masnormen" alt="masnormen" /> </p>
 
-Here are some ideas to get you started:
+- 🏠 I’m currently based in **Malang, Indonesia,** studying at Universitas Brawijaya
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📝 I regulary write articles and share my experience on my blog => [https://nourman.id/](https://nourman.id/)
+
+- 💬 Ask me about **React, UI/UX Design, and JAMstack technology!**
+
+<p align="center">
+<a href="https://github.com/MartinHeinz/MartinHeinz">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=masnormen&hide=html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/MartinHeinz/MartinHeinz">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=masnormen&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+</a>
+</p>
