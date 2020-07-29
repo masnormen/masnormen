@@ -1,4 +1,4 @@
-<h1 align="center">Hello! I'm Nourman Hajar</h1>
+<h1 align="center">Hello! I'm Nourman Hajar 🙇🏻‍♂️</h1>
 <h3 align="center">A Front-End Engineer, Linux Hobbyist, and CS Student. Curious and have a deep love for coding.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=masnormen" alt="masnormen" /> </p>
