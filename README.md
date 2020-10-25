@@ -1,12 +1,13 @@
 <h1 align="center">Hello! I'm Nourman Hajar 🙇🏻‍♂️</h1>
-<h3 align="center">A Front-End Engineer, Linux Hobbyist, and CS Student. Curious and have a deep love for coding.</h3>
+<h3 align="center">Front-End Engineer, Linux Hobbyist, who is curious about Data Science.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=masnormen" alt="masnormen" /> </p>
 
-- 🏠  I’m currently based in **Malang, Indonesia,** studying at Universitas Brawijaya
-- 🌱  I’m currently learning to code in Laravel, Python, and GraphQL
-- 📝  I regulary write articles and share my experience on my blog => [https://nourman.id/](https://nourman.id/)
-- 💬  Ask me about **React, UI/UX Design, Linux/UNIX, and JAMstack!**
+-  🏠  I’m currently based in **Malang, Indonesia,** studying at Universitas Brawijaya
+-  🌱  I’m currently learning to code in Python, R, and PHP
+-  💡  I’m aspiring to learn Data Analysis and Visualization
+-  📝  I also write articles and share my experience on [my website](https://nourman.id/)
+-  💬  Ask me about **React, Linux/UNIX, and JAMstack!**
 
 **Languages and Tools:**  
 
