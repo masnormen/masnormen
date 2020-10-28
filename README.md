@@ -7,6 +7,7 @@
 -  🌱  I’m currently learning to code in Python, R, and PHP
 -  💡  I’m aspiring to learn Data Analysis and Visualization
 -  📝  I also write articles and share my experience on [my website](https://nourman.id/)
+-  📒  You can look at some of my notebooks exploring data analysis on [my Kaggle](https://www.kaggle.com/masnormen/)
 -  💬  Ask me about **React, Linux/UNIX, and JAMstack!**
 
 **Languages and Tools:**  
