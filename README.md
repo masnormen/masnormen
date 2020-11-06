@@ -1,5 +1,5 @@
 <h1 align="center">Hello! I'm Nourman Hajar</h1>
-<p align="center"><b>Front-End Dev, Linux Hobbyist, who is curious about Data Science</b></p>
+<h3 align="center"><b>Front-End Dev, Linux Hobbyist, who is curious about Data Science</b></h3>
 
 -  🏠  Currently based in Malang, Indonesia, studying at Universitas Brawijaya
 -  🌱  I’m learning to code in Python, R, and PHP
