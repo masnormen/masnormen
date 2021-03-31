@@ -1,12 +1,11 @@
-<h1 align="center">Hello! I'm Nourman Hajar</h1>
-<h3 align="center"><b>Front-End Dev, Linux Hobbyist, who is curious about Data Science</b></h3>
+<h1 align="center">Hi! I am Nourman Hajar</h1>
+<h3 align="center"><b>Fullstack Dev, Data Enthusiast, UNIX Hobbyist</b></h3>
 
--  🏠  Currently based in Malang, Indonesia, studying at Universitas Brawijaya
--  🌱  I’m learning to code in Python, R, and PHP
--  💡  Right now I’m aspiring to learn Data Science!
--  📝  I write articles and share my experience on [my website](https://nourman.id/)
--  📒  I do some exploratory data analysis and model building on [my Kaggle](https://www.kaggle.com/masnormen/)
--  💬  Ask me about **React, Linux/UNIX, and JAMstack!**
+-  🎰  Machine Learning Path Participant in Bangkit 2021 with Google, Gojek, Tokopedia, and Traveloka
+-  🏠  Based in Malang, Indonesia, studying at Universitas Brawijaya
+-  🌱  Codes in JavaScript, Python, PHP, and shellscript
+-  💡  Codes for fullstack web dev. Aspiring to learn ML and Data Science!
+-  📝  I write articles and share my experiences on [my website](https://nourman.id/)
 
 **Languages and Tools:**
 
