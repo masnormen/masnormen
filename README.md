@@ -1,7 +1,9 @@
-<h1 align="center">Hi! I am Nourman Hajar</h1>
+<h1 align="center">Hi! I am Nourman Hajar ✌️</h1>
 <h3 align="center"><b>Fullstack Dev, Data Enthusiast, UNIX Hobbyist</b></h3>
 
--  🎰  Machine Learning Path Participant in Bangkit 2021 with Google, Gojek, Tokopedia, and Traveloka
+<p align="center"><b>Check my pinned repos and see some of my works 😃</b></p>
+
+-  🎰  Machine Learning Path Participant in Bangkit 2021 by Google, Gojek, Tokopedia, and Traveloka
 -  🏠  Based in Malang, Indonesia, studying at Universitas Brawijaya
 -  🌱  Codes in JavaScript, Python, PHP, and shellscript
 -  💡  Codes for fullstack web dev. Aspiring to learn ML and Data Science!
