@@ -1,19 +1,21 @@
 <pre>
 👨‍💻 Hi! My name is <b>Nourman Hajar 👋</b>
 │
-├─📍 <b>Malang, Indonesia</b>
+├─🛠 <b>Software Engineer</b>
+├─🇮🇩 Indonesia
 │
 ├─💼 <b>Experience</b>
-│ ├─🦉 <a href="https://www.tokopedia.com/">Tokopedia</a> (current)     - Software Engineer in Engineering Productivity Intern
+│ ├─🦉 <a href="https://www.tokopedia.com/">Tokopedia</a>               - Software Engineer in Engineering Productivity Intern <i>(present)</i>
 │ └─🇦🇺 <a href="https://digitalenvision.com.au/">Digital Envision AU</a>     - Web Developer
 │
 ├─🎓 <b>Education</b>
-│ ├─🔵 <a href="https://ub.ac.id">Universitas Brawijaya</a>   - Information Systems (current)
+│ ├─🔵 <a href="https://ub.ac.id">Universitas Brawijaya</a>   - Information Systems <i>(present)</i>
 │ └─🛑 <a href="https://bangkit.academy/">Bangkit Academy</a>         - Machine Learning Path (by Google, Tokopedia, Gojek, & Traveloka)
 │
 ├─🌟 <b>Tech Stack</b>
 │ ├─ JavaScript (React, Node, Next.js)
 │ ├─ Python (TensorFlow, pandas, numpy, sklearn)
+│ ├─ Katalon
 │ ├─ PHP
 │ ├─ Shell
 │ └─ Linux/UNIX
