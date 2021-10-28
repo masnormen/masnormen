@@ -1,33 +1,37 @@
-<h1 align="center">Hi! I am Nourman Hajar ✌️</h1>
-<h3 align="center"><b>Fullstack Dev, Data Enthusiast, UNIX Hobbyist</b></h3>
-
-<p align="center"><b>Check my pinned repos and see some of my works 😃</b></p>
-
--  🎰  Machine Learning Path Participant in Bangkit 2021 by Google, Gojek, Tokopedia, and Traveloka
--  🏠  Based in Malang, Indonesia, studying at Universitas Brawijaya
--  🌱  Codes in JavaScript, Python, PHP, and shellscript
--  💡  Codes for fullstack web dev. Aspiring to learn ML and Data Science!
--  📝  I write articles and share my experiences on [my website](https://nourman.id/)
-
-**Languages and Tools:**
-
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/macos/macos.png"></code>
-
-**Stats:**
-
-<img src="https://komarev.com/ghpvc/?username=masnormen" alt="masnormen">
+<pre>
+👨‍💻 Hi! My name is <b>Nourman Hajar 👋</b>
+│
+├─📍 <b>Malang, Indonesia</b>
+│
+├─💼 <b>Experience</b>
+│ ├─🦉 <a href="https://www.tokopedia.com/">Tokopedia</a> (current)     - Software Engineer in Engineering Productivity Intern
+│ └─🇦🇺 <a href="https://digitalenvision.com.au/">Digital Envision AU</a>     - Web Developer
+│
+├─🎓 <b>Education</b>
+│ ├─🔵 <a href="https://ub.ac.id">Universitas Brawijaya</a>   - Information Systems (current)
+│ └─🛑 <a href="https://bangkit.academy/">Bangkit Academy</a>         - Machine Learning Path (by Google, Tokopedia, Gojek, & Traveloka)
+│
+├─🌟 <b>Tech Stack</b>
+│ ├─ JavaScript (React, Node, Next.js)
+│ ├─ Python (TensorFlow, pandas, numpy, sklearn)
+│ ├─ PHP
+│ ├─ Shell
+│ └─ Linux/UNIX
+│
+├─😉 <b>Contact</b>
+│ ├─🟦 <a href="https://www.linkedin.com/in/nourmanhajar/">LinkedIn</a>
+│ └─🌏 <a href="https://nourman.id">Personal site</a>
+│ 
+├─🔥 <b>Check out my pinned repos and see some of my works! 😆</b>
+│ 
+└─👀 <img height="15px" src="https://komarev.com/ghpvc/?username=masnormen" alt="masnormen">
+</pre>
 
 <p align="center">
   <a href="https://github.com/masnormen">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=masnormen&hide=html" />
+    <img align="left" src="https://github.com/masnormen/ghstat/blob/master/generated/languages.svg" />
   </a>
   <a href="https://github.com/masnormen">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=masnormen&show_icons=true&line_height=40&count_private=true" alt="Normen's GitHub Stats" />
+    <img align="right" src="https://github.com/masnormen/ghstat/blob/master/generated/overview.svg" />
   </a>
 </p>
