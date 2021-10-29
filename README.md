@@ -10,7 +10,7 @@
 │ └─🇦🇺 <a href="https://digitalenvision.com.au/">Digital Envision AU</a>     - Web Developer
 │
 ├─🎓 <b>Education</b>
-│ ├─🔵 <a href="https://ub.ac.id">Universitas Brawijaya</a>   - Information Systems <i>(present)</i>
+│ ├─🏫 <a href="https://ub.ac.id">Universitas Brawijaya</a>   - Information Systems <i>(present)</i>
 │ └─🛑 <a href="https://bangkit.academy/">Bangkit Academy</a>         - Machine Learning Path (by Google, Tokopedia, Gojek, & Traveloka)
 │
 ├─🌟 <b>Tech Stack</b>
@@ -22,8 +22,8 @@
 │ └─ Linux/UNIX
 │
 ├─😉 <b>Contact</b>
-│ ├─🟦 <a href="https://www.linkedin.com/in/nourmanhajar/">LinkedIn</a>
-│ └─🌏 <a href="https://nourman.id">Personal site</a>
+│ ├─🛄 LinkedIn                 - <a href="https://www.linkedin.com/in/nourmanhajar/">/in/nourmanhajar</a>
+│ └─🌏 Personal site            - <a href="https://nourman.id">nourman.id/</a>
 │ 
 ├─🔥 <b>Check out my pinned repos and see some of my works! 😆</b>
 │ 
