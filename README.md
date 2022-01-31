@@ -1,5 +1,5 @@
 <pre>
-📂 Hi! My name is <b>Nourman Hajar 👋</b>
+📦 Hi! My name is <b>Nourman Hajar</b> 👋
 │
 ├─🛠 <b>Software Engineer</b>
 ├─🇮🇩 Indonesia
