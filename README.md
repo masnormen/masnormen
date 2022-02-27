@@ -11,7 +11,7 @@
 <pre>
 📂 <b>/home/masnormen</b>
 │
-├─💼 <b>Experiences</b>
+├─💼 <b>Experience</b>
 │ ├─🟩 <a href="https://www.tokopedia.com/">Tokopedia</a>               - <b>Software Engineer Intern in Engineering Productivity</b>
 │ ├─🔥 <a href="https://bemfilkom.ub.ac.id/">BEM FILKOM UB</a>           - Head of IT Department
 │ └─🇦🇺 <a href="https://digitalenvision.com.au/">Digital Envision AU</a>     - Web Developer
