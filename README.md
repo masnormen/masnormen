@@ -2,7 +2,7 @@
 42 🟩🟩🟩🟩🟥  README.md 
 –--------------------------------------------------------------
 - /* TODO: Write something that sounds smart for this README */
-- /* TODO: Well, what should I write? */
+- /* TODO: Umm, what should I write? */
 - /* TODO: Nevermind... */
 + Hi! My name is Nourman Hajar! 👋
 + I'm a Software Engineer from Indonesia! 🇮🇩
