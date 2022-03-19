@@ -9,25 +9,26 @@
 ```
 
 <pre>
-📂 <b>/home/masnormen</b>
+👨‍💻 <b>/home/masnormen</b>
 │
-│ ├─🟩 <a href="https://www.tokopedia.com/">Tokopedia</a>               - <b>Software Engineer Intern in Engineering Productivity</b>
-│ ├─🏫 <a href="https://ub.ac.id">Universitas Brawijaya</a>   - <b>Information Systems</b>
-│ └─👨‍🏫 <a href="https://academy.tokopedia.com/events/dev-camp/">Tokopedia DevCamp</a>       - Selected Participant, Class of 2021
-│ └─🛑 <a href="https://bangkit.academy/">Bangkit Academy</a>         - Machine Learning Path, Class of 2021
+├─📦 <b>journey</b>
+│ ├─ 🟩 <a href="https://www.tokopedia.com/">Tokopedia</a>               - <b>Software Engineer Intern in Engineering Productivity</b>
+│ ├─ 🏫 <a href="https://ub.ac.id">Universitas Brawijaya</a>   - <b>Information Systems</b>
+│ └─ 👨‍🏫 <a href="https://academy.tokopedia.com/events/dev-camp/">Tokopedia DevCamp</a>       - Selected Participant, 2021
+│ └─ 🛑 <a href="https://bangkit.academy/">Bangkit Academy</a>         - Machine Learning Path, 2021
 │
-├─🌟 <b>I've used...</b>
-│ ├─ JavaScript (React, Node, Next.js)
-│ ├─ Python (TensorFlow, pandas, numpy, sklearn)
-│ ├─ Katalon
-│ ├─ Rust
-│ └─ Linux/UNIX
+├─🌟 <b>stack</b>
+│ ├─ javascript (react, node, next)
+│ ├─ python (tensorflow, pandas, numpy, sklearn)
+│ ├─ katalon
+│ ├─ rust
+│ └─ linux/unix
 │
-├─😉 <b>Contact</b>
-│ ├─🛄 LinkedIn                - <a href="https://www.linkedin.com/in/nourmanhajar/">/in/nourmanhajar</a>
-│ └─🌏 Personal site           - <a href="https://nourman.id">nourman.id/</a>
+├─🤙 <b>contact</b>
+│ ├─ 🛄 linkedin                 - <a href="https://www.linkedin.com/in/nourmanhajar/">/in/nourmanhajar</a>
+│ └─ 🌏 personal site            - <a href="https://nourman.id">nourman.id/</a>
 │ 
-├─🔥 <b>Check out my pinned repos and see some of my works 😆</b>
+├─🔥 <b>check out my pinned repos and see some of my works 😆</b>
 │ 
 └─👀 <img height="15px" src="https://komarev.com/ghpvc/?username=masnormen" alt="masnormen">
 </pre>
