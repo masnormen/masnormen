@@ -11,12 +11,7 @@
 <pre>
 📂 <b>/home/masnormen</b>
 │
-├─💼 <b>Experience</b>
 │ ├─🟩 <a href="https://www.tokopedia.com/">Tokopedia</a>               - <b>Software Engineer Intern in Engineering Productivity</b>
-│ ├─🔥 <a href="https://bemfilkom.ub.ac.id/">BEM FILKOM UB</a>           - Head of IT Department
-│ └─🇦🇺 <a href="https://digitalenvision.com.au/">Digital Envision AU</a>     - Web Developer
-│
-├─🎓 <b>Education & Others</b>
 │ ├─🏫 <a href="https://ub.ac.id">Universitas Brawijaya</a>   - <b>Information Systems</b>
 │ └─👨‍🏫 <a href="https://academy.tokopedia.com/events/dev-camp/">Tokopedia DevCamp</a>       - Selected Participant, Class of 2021
 │ └─🛑 <a href="https://bangkit.academy/">Bangkit Academy</a>         - Machine Learning Path, Class of 2021
