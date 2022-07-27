@@ -22,13 +22,13 @@
 │ ├─ python (tensorflow, pandas)
 │ ├─ katalon (groovy)
 │ ├─ rust
-│ └─ unix/linux/mac env
+│ └─ unix/linux/mac
 │
 ├─🤙 <b>contacts</b>
 │ ├─ 🛄 linkedin                 - <a href="https://www.linkedin.com/in/nourmanhajar/">/in/nourmanhajar</a>
-│ └─ 🌏 personal site            - <a href="https://nourman.id">nourman.id/</a>
+│ └─ 🌏 personal_site            - <a href="https://nourman.id">nourman.id/</a>
 │ 
-├─🔥 <b>i like to build things. or better yet, collaborate to build things</b>
+├─🥰 i like to build things. or better yet, collaborate to build things
 │ 
 └─👀 <img height="15px" src="https://komarev.com/ghpvc/?username=masnormen" alt="masnormen">
 </pre>
