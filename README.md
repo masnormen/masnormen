@@ -13,7 +13,7 @@
 │
 ├─📦 <b>my_journey</b>
 │ ├─ 🟩 <a href="https://www.tokopedia.com/">Tokopedia</a>               - <b>Software Engineer in Engineering Productivity</b>
-│ ├─ 🏫 <a href="https://ub.ac.id">Universitas Brawijaya</a>   - <b>Information Systems</b>
+│ ├─ 🏫 <a href="https://ub.ac.id">Universitas Brawijaya</a>   - Information Systems, 2022
 │ └─ 👨‍🏫 <a href="https://academy.tokopedia.com/events/dev-camp/">Tokopedia DevCamp</a>       - Selected Participant, 2021
 │ └─ 🛑 <a href="https://bangkit.academy/">Bangkit Academy</a>         - Machine Learning Path, 2021
 │
