@@ -11,12 +11,6 @@
 <pre>
 👨‍💻 <b>/home/masnormen</b>
 │
-├─📦 <b>my_journey</b>
-│ ├─ 🟩 <a href="https://www.tokopedia.com/">Tokopedia</a>               - <b>Software Engineer in Engineering Productivity</b>
-│ ├─ 🏫 <a href="https://ub.ac.id">Universitas Brawijaya</a>   - Information Systems, 2022
-│ └─ 👨‍🏫 <a href="https://academy.tokopedia.com/events/dev-camp/">Tokopedia DevCamp</a>       - Selected Participant, 2021
-│ └─ 🛑 <a href="https://bangkit.academy/">Bangkit Academy</a>         - Machine Learning Path, 2021
-│
 ├─🌟 <b>tech_stack</b>
 │ ├─ javascript (node.js, react, svelte, next)
 │ ├─ python (tensorflow, pandas)
@@ -25,8 +19,8 @@
 │ └─ unix/linux/mac
 │
 ├─🤙 <b>contacts</b>
-│ ├─ 🛄 linkedin                 - <a href="https://www.linkedin.com/in/nourmanhajar/">/in/nourmanhajar</a>
-│ └─ 🌏 personal_site            - <a href="https://nourman.id">nourman.id/</a>
+│ ├─ 📝 personal_site            - <a href="https://nourman.id">nourman.id/</a>
+│ └─ 🛄 linkedin                 - <a href="https://www.linkedin.com/in/nourmanhajar/">/in/nourmanhajar</a>
 │ 
 ├─🥰 i like to build things. or better yet, collaborate to build things
 │ 
