@@ -1,5 +1,5 @@
 ```diff
-420 🟩🟩🟩🟩🟥  README.md 
+42 🟩🟩🟩🟩🟥  README.md 
 –--------------------------------------------------------------
 - /* TODO: Write something that sounds smart for this README */
 - /* TODO: Umm, what should I write? */
@@ -23,6 +23,10 @@
  ├─💭 i just like to build things
  │ 
  └─👀 <img height="15px" src="https://komarev.com/ghpvc/?username=masnormen" alt="masnormen">
+</pre>
+
+<pre>
+for the more boring stuff, poke the eye: <a href="https://github.com/nourmanhajar">👉 👁️ 👈</a>
 </pre>
 
 <p align="center">
