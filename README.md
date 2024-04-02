@@ -10,15 +10,15 @@
 <pre>
 📦 <b>/home/masnormen</b>
  │
- ├─🌟 <b>tech_stack</b>
- │ ├─ typescript/javascript (react, svelte, node)
- │ ├─ python (tensorflow, pandas)
- │ ├─ katalon (groovy)
+ ├─🌟 <b>some_of_my_tech_stack</b>
+ │ ├─ typescript/javascript: react, node, next.js, tanstack query
+ │ ├─ python: tensorflow, pandas
+ │ ├─ groovy: katalon
  │ └─ rust
  │
  ├─🤙 <b>hmu</b>
  │ ├─ 📝 <a href="https://nourman.com?utm_source=github">nourman.com</a>
- │ └─ 🛄 <a href="https://www.linkedin.com/in/nourmanhajar/">linkedin</a>
+ │ └─ 🛄 <a href="https://www.linkedin.com/in/nourmanhajar/">linkedin/in/nourmanhajar</a>
  │ 
  ├─💭 i just like to build things
  │ 
