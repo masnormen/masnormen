@@ -4,29 +4,30 @@
 - /* TODO: Write something that sounds smart for this README */
 - /* TODO: Umm, what should I write? */
 - /* TODO: Nevermind... */
-+ hi there!
++ hi!
 ```
+
+<pre>
+yes, my contribution graph is mostly gray. doesn't mean i'm lazy or dead.
+i just do most of my work on <b><a href="https://github.com/nourmanhajar">👉 my other account</a></b>.
+</pre>
 
 <pre>
 📦 <b>/home/masnormen</b>
  │
  ├─🌟 <b>some_of_my_tech_stack</b>
- │ ├─ typescript/javascript: react, node, next.js, tanstack query
- │ ├─ python: tensorflow, pandas
- │ ├─ groovy: katalon
- │ └─ rust
+ │ ├─ typescript/javascript (mostly fullstack webdev stuff)
+ │ ├─ python (mostly for scripting and machine learning)
+ │ ├─ groovy (mostly for testing)
+ │ └─ rust, go, etc
  │
  ├─🤙 <b>hmu</b>
  │ ├─ 📝 <a href="https://nourman.com?utm_source=github">nourman.com</a>
  │ └─ 🛄 <a href="https://www.linkedin.com/in/nourmanhajar/">linkedin/in/nourmanhajar</a>
  │ 
- ├─💭 i just like to build things
+ ├─💭 i love building stuff. mostly open-source.
  │ 
  └─👀 <img height="15px" src="https://komarev.com/ghpvc/?username=masnormen" alt="masnormen">
-</pre>
-
-<pre>
-for the more boring stuff, poke the eye: <a href="https://github.com/nourmanhajar">👉 👁️ 👈</a>
 </pre>
 
 <p align="center">
