@@ -13,6 +13,8 @@ jobs:
     env:
       FORCE_COLOR: 1
       GITHUB_USERNAME: ${{ github.repository_owner }}
+      EXCLUDED_LANGS: ${{ vars.EXCLUDED_LANGS }}
+      COMBINED_LANGS: ${{ vars.COMBINED_LANGS }}
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
