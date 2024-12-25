@@ -78,6 +78,8 @@ export async function getGithubStats() {
     }
   }
 
+  console.log("Fetching GitHub stats...");
+
   const getGitHubInfo = async (nextOwnedBy?: string, nextContrib?: string) => {
     const result = await githubGql<{
       viewer: Pick<
@@ -321,10 +323,7 @@ export async function getGithubStats() {
     },
   );
 
-  if (
-    process.env.NODE_ENV !== "production" &&
-    !fs.existsSync(GITHUBSTAT_DEV_PATH)
-  ) {
+  if (process.env.NODE_ENV !== "production") {
     fs.writeFileSync(
       GITHUBSTAT_DEV_PATH,
       JSON.stringify({ updatedAt: Date.now(), ...stat }, null, 2),
