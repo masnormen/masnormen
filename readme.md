@@ -26,9 +26,9 @@
 
 <p align="left">
 <h2><code><b>Nourman Hajar</b></code></h2>
+<br/>
 <code>software engineer with a focus on fullstack webdev.</code>
-<br/>
-<br/>
+<br/><br/>
 ​<sub><code>currently crafting highly polished apps, tools, and libraries alike, redefining what's possible with passion™️.</code></sub>
 <br/>
 ​<sub><code>loves <b>open-source</b>. trying my best to contribute back to the community.</code></sub>
@@ -43,5 +43,8 @@
 </p>
 
 <a href="https://github.com/masnormen"><img src="./svg/footer(delay=0.8).svg" width="100%" height="250"></a>
-<p align="right"><code><sup><sub>this README is made with <b>hono + tailwindcss</b>.</code></sub></sup><code><a href="https://github.com/masnormen/masnormen"><sup><sub>see how.</sub></sup></a></code>
+
+<p align="right">
+<code><sup><sub>this README is made with <b>hono + tailwindcss</b>.</code></sub></sup><code><a href="https://github.com/masnormen/masnormen"><sup><sub>see how.</sub></sup></a></code>
+
 </p>
