@@ -8,6 +8,7 @@ const start = performance.now();
 await toSSG(app, fs, {
   dir: "dist",
   afterGenerateHook: async () => {
+    await fs.rm("./src/readme/readme.md");
     await fs.copyFile("./src/readme/readme.md", "dist/readme.md");
     console.log(
       `Finished generating in ${((performance.now() - start) / 1000).toFixed(2)}s`,
