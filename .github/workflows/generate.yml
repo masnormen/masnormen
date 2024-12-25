@@ -1,0 +1,44 @@
+name: Generate README Stats
+
+on:
+  push:
+    branches: [ master ]
+  schedule:
+    - cron: "5 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    env:
+      FORCE_COLOR: 1
+      GITHUB_USERNAME: ${{ github.repository_owner }}
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Install pnpm
+        uses: pnpm/action-setup@v4
+        with:
+          run_install: false
+
+      - name: Use Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20.9.*
+          cache: 'pnpm'
+
+      - name: Install dependencies
+        run: pnpm install
+
+      - name: Run build
+        run: pnpm build
+
+      - name: Commit to the repo
+        run: |
+          git config --global user.name "tukang-bantu-bantu"
+          git config --global user.email "tukang@bantu-bantu.com"
+          git add .
+
+          git commit -m 'chore: update github readme data' || echo
+          git push

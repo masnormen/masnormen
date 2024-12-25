@@ -1,0 +1,32 @@
+{
+  "name": "masnormen",
+  "type": "module",
+  "scripts": {
+    "dev": "dotenvx run --convention=nextjs -- tsx watch ./src/index.ts --include src/*",
+    "build": "dotenvx run --env=\"NODE_ENV=production\" --convention=nextjs -- tsx ./build.ts",
+    "lint": "biome lint ./src --diagnostic-level=error",
+    "lint:fix": "biome check --write ./src",
+    "lint:ci": "biome ci ./src --diagnostic-level=error"
+  },
+  "dependencies": {
+    "@hono/node-server": "^1.13.7",
+    "@octokit/graphql": "^8.1.1",
+    "@octokit/graphql-schema": "^15.25.0",
+    "@octokit/plugin-throttling": "^9.3.2",
+    "@octokit/rest": "^21.0.2",
+    "es-toolkit": "^1.30.1",
+    "hono": "^4.6.14",
+    "marked": "^15.0.4",
+    "tailwindcss": "^3.4.17",
+    "zod": "^3.24.1",
+    "zx": "^8.2.4"
+  },
+  "devDependencies": {
+    "@biomejs/biome": "1.9.4",
+    "@dotenvx/dotenvx": "^1.31.3",
+    "@hono/vite-ssg": "^0.1.0",
+    "@types/node": "^20.11.17",
+    "tsx": "^4.7.1"
+  },
+  "packageManager": "pnpm@9.15.1"
+}

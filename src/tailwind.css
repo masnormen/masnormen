@@ -1,0 +1,91 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities {
+  :root {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans",
+      Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
+
+    --default-delay: 0.4s;
+    --duration: 1s;
+    --stagger: 0.1s;
+  }
+
+  .animate-slowspin-rev {
+    animation: slowspin-rev 15s linear infinite;
+  }
+
+  @keyframes slowspin-rev {
+    to {
+      transform: rotate(-1turn);
+    }
+  }
+
+  .animate-fastspin {
+    animation: fastspin 8s linear infinite;
+  }
+
+  @keyframes fastspin {
+    to {
+      transform: rotate(1turn);
+    }
+  }
+
+  .theme-transitioning * {
+    transition-duration: 0.5s;
+    transition-property: color, background-color, border-color, box-shadow,
+      filter, fill, stroke;
+  }
+
+  .fade-in {
+    will-change: opacity;
+    animation-name: fade-in;
+    animation-fill-mode: both;
+    animation-duration: var(--duration);
+    animation-timing-function: ease-out;
+    animation-delay: var(--delay, var(--default-delay));
+  }
+
+  @keyframes fade-in {
+    0% {
+      opacity: 0;
+    }
+    100% {
+      opacity: 1;
+    }
+  }
+
+  .slide-in {
+    animation-name: slide-in;
+    animation-fill-mode: both;
+    animation-duration: var(--duration);
+    animation-timing-function: ease-out;
+    animation-delay: var(--delay, var(--default-delay));
+  }
+
+  @keyframes slide-in {
+    0% {
+      transform: translateY(40px);
+    }
+    100% {
+      transform: translateY(0px);
+    }
+  }
+
+  .animate-bounce-side {
+    animation: bounce-side 1s infinite;
+  }
+
+  @keyframes bounce-side {
+    0%,
+    100% {
+      transform: translateX(25%) translateY(-10%);
+      animation-timing-function: cubic-bezier(0.8, 0, 1, 1);
+    }
+    50% {
+      transform: none;
+      animation-timing-function: cubic-bezier(0, 0, 0.2, 1);
+    }
+  }
+}
