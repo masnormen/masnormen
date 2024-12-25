@@ -12,6 +12,7 @@ jobs:
     runs-on: ubuntu-latest
     env:
       FORCE_COLOR: 1
+      GITHUB_TOKEN: ${{ secrets.README_TOKEN }}
       GITHUB_USERNAME: ${{ github.repository_owner }}
       EXCLUDED_LANGS: ${{ vars.EXCLUDED_LANGS }}
       COMBINED_LANGS: ${{ vars.COMBINED_LANGS }}
