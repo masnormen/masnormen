@@ -1,30 +1,30 @@
 <p>
 <a href="https://nourman.com" target="_blank">
-  <img align="left" src="./svg/link(text=nourman.com)(delay=0.3).svg">
+  <img align="left" src="./svg/link(text=nourman.com)(delay=0.3).svg"/>
 </a>
 
 <a href="https://linkedin.com/in/nourmanhajar" target="_blank">
-  <img align="left" src="./svg/link(text=linkedin)(delay=0.6).svg">
+  <img align="left" src="./svg/link(text=linkedin)(delay=0.6).svg"/>
 </a>
 
 <a href="https://noshon.vercel.app" target="_blank">
   <picture>
-    <source media="(min-width: 958px)" srcset="./svg/link(text=noshon)(delay=1.5).svg">
-    <img align="right" src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=">
+    <source media="(min-width: 958px)" srcset="./svg/link(text=noshon)(delay=1.5).svg"/>
+    <img align="right" src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="/>
   </picture>
 </a>
 
 <a href="https://ziyo.nourman.com" target="_blank">
   <picture>
-    <source media="(min-width: 838px)" srcset="./svg/link(text=ziyo)(delay=1.2).svg">
-    <img align="right" src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=">
+    <source media="(min-width: 838px)" srcset="./svg/link(text=ziyo)(delay=1.2).svg"/>
+    <img align="right" src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="/>
   </picture>
 </a>
 
 <a href="https://carakan.js.org" target="_blank">
   <picture>
-    <source media="(min-width: 788px)" srcset="./svg/link(text=carakan.js)(delay=0.9).svg">
-    <img align="right" src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=">
+    <source media="(min-width: 788px)" srcset="./svg/link(text=carakan.js)(delay=0.9).svg"/>
+    <img align="right" src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="/>
   </picture>
 </a>
 
@@ -51,8 +51,8 @@
 
 <a href="https://github.com/masnormen">
 <picture>
-  <source media="(max-width: 1100px)" srcset="./svg/footer(delay=0)(mobile=true).svg" width="100%" height="500">
-  <img src="./svg/footer(delay=0.3).svg" width="100%" height="250">
+  <source media="(max-width: 1100px)" srcset="./svg/footer(delay=0)(mobile=true).svg" width="100%"/>
+  <img src="./svg/footer(delay=0.3).svg" width="100%"/>
 </picture>
 </a>
 
