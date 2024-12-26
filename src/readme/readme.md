@@ -50,12 +50,9 @@
 </p>
 
 <a href="https://github.com/masnormen">
-<picture>
-  <source media="(min-width: 1100px)" srcset="./svg/footer(delay=0.3).svg"/>
-  <img src="./svg/footer(delay=0)(mobile=true).svg" width="100%"/>
-</picture>
+<img src="./svg/footer(delay=0.3).svg" width="100%" height="250" />
 </a>
-
+<br/>
 <p align="center">
 <code><sup><sub>this README is made with <b>hono + tailwindcss</b>.</code></sub></sup><code><a href="https://github.com/masnormen/masnormen"><sup><sub>see how.</sub></sup></a></code>
 
