@@ -1,11 +1,16 @@
 import { getTailwindStyles } from "@/utils/get-tailwind-styles.js";
 import { ForeignObject, SVGContainer } from "@/utils/svg.js";
 import { sum } from "es-toolkit";
+import { z } from "zod";
 
-export default async function Link({
-  text,
-  delay,
-}: { text: string; delay?: number }) {
+const LinkProps = z.object({
+  text: z.string(),
+  delay: z.coerce.number().optional(),
+});
+
+export default async function Link(props: unknown) {
+  const { text, delay } = LinkProps.parse(props);
+
   const { TailwindStyles } = await getTailwindStyles(import.meta.url);
 
   const SLIM_LETTERS = "fijlt" as const;
@@ -17,7 +22,7 @@ export default async function Link({
     ) + 11.5;
 
   return (
-    <SVGContainer height="20" width={width}>
+    <SVGContainer height="25" width={width}>
       <TailwindStyles />
       {!!delay && (
         <style>{`
@@ -29,7 +34,7 @@ export default async function Link({
       <ForeignObject class="fade-in">
         <span class="font-medium text-blue-700 leading-[1]">
           {text}
-          <div class="inline-block animate-bounce-side text-red-900">↗</div>
+          <div class="inline-block animate-bounce-side text-amber-500">↗</div>
         </span>
       </ForeignObject>
     </SVGContainer>
