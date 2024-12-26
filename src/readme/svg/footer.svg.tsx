@@ -1,23 +1,32 @@
 import Languages from "@/readme/svg/components/languages.svg.js";
 import Stats from "@/readme/svg/components/stats.svg.js";
+import { cn } from "@/utils/cn.js";
 import { getGithubStats } from "@/utils/get-github-stats.js";
 import { getTailwindStyles } from "@/utils/get-tailwind-styles.js";
 import { ForeignObject } from "@/utils/svg.js";
+import { z } from "zod";
 
-export default async function Footer({ delay }: { delay?: number }) {
+const FooterProps = z.object({
+  mobile: z.coerce.boolean().default(false),
+  delay: z.coerce.number().optional(),
+});
+
+export default async function Footer(props: unknown) {
+  const { mobile, delay } = FooterProps.parse(props);
+
   const { TailwindStyles } = await getTailwindStyles(import.meta.url);
 
   const githubStat = await getGithubStats();
 
-  const LanguageContent = await Languages({ githubStat });
-  const StatsContent = await Stats({ githubStat });
+  const LanguageContent = await Languages({ githubStat, mobile });
+  const StatsContent = await Stats({ githubStat, mobile });
 
   return (
     <svg
       xmlns="http://www.w3.org/2000/svg"
       version="1.1"
       width="100%"
-      height="250"
+      height={mobile ? "500" : "250"}
       class="slide-in"
     >
       <TailwindStyles />
@@ -28,6 +37,7 @@ export default async function Footer({ delay }: { delay?: number }) {
           }
         `}</style>
       )}
+
       <ForeignObject class="fade-in relative h-full w-full">
         {/* Wave */}
         <svg
@@ -37,7 +47,7 @@ export default async function Footer({ delay }: { delay?: number }) {
           xmlns:svgjs="http://svgjs.dev/svgjs"
           viewBox="0 0 2400 800"
           opacity="0.3"
-          class="-translate-x-1/2 absolute bottom-0 left-1/2 w-[840px]"
+          class="-translate-x-1/2 absolute bottom-0 left-1/2 w-[846px]"
         >
           <defs>
             <linearGradient
@@ -114,7 +124,7 @@ export default async function Footer({ delay }: { delay?: number }) {
           xmlns:svgjs="http://svgjs.dev/svgjs"
           viewBox="0 0 800 800"
           opacity="0.25"
-          class="-translate-y-[calc(50%+10px)] -translate-x-[calc(50%+25px)] absolute top-1/2 left-1/2 w-[840px]"
+          class="-translate-y-[calc(50%+10px)] -translate-x-[calc(50%+25px)] absolute top-1/2 left-1/2 w-[846px]"
         >
           <defs>
             <linearGradient
@@ -334,13 +344,23 @@ export default async function Footer({ delay }: { delay?: number }) {
         </div>
 
         <div
-          class="-translate-y-1/2 absolute top-1/2 right-0 mt-1 mr-12 flex h-[140px] w-[115px] justify-end opacity-90"
+          class={cn(
+            mobile
+              ? "-translate-x-1/2 absolute bottom-5 left-1/2"
+              : "-translate-y-1/2 absolute top-1/2 right-0 mt-1 mr-12 justify-end",
+            "flex h-[140px] w-[115px] opacity-90",
+          )}
           // biome-ignore lint/security/noDangerouslySetInnerHtml: <explanation>
           dangerouslySetInnerHTML={{ __html: LanguageContent }}
         />
 
         <div
-          class="-translate-y-1/2 absolute top-1/2 left-0 ml-12 h-[140px] opacity-90"
+          class={cn(
+            mobile
+              ? "-translate-x-1/2 absolute top-5 left-1/2 w-full px-4"
+              : "-translate-y-1/2 absolute top-1/2 left-0 ml-12",
+            "h-[140px] max-w-[250px] opacity-90",
+          )}
           // biome-ignore lint/security/noDangerouslySetInnerHtml: <explanation>
           dangerouslySetInnerHTML={{ __html: StatsContent }}
         />

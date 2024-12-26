@@ -38,6 +38,14 @@
           "level": "error",
           "fix": "safe",
           "options": {}
+        },
+        "noRestrictedImports": {
+          "level": "error",
+          "options": {
+            "paths": {
+              "clsx": "Use `cn` instead"
+            }
+          }
         }
       },
       "style": {
