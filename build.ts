@@ -15,6 +15,7 @@ await toSSG(app, fs, {
   },
 });
 
+await fs.rm("svg", { recursive: true });
 await fs.cp("dist", ".", { recursive: true });
 await fs.rm("dist", { recursive: true });
 process.exit(0);

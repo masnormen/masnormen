@@ -24,9 +24,17 @@ export function getImageSrcs() {
       imageSrcs.add(match[1].replace(/^\.?\//g, ""));
     }
   }
+  // Match HTML <source> tags
+  const htmlSourceSrcsetRegex = /<source[^>]*srcset=["']([^"']+)["'][^>]*>/g;
+  for (const match of readmeRawString.matchAll(htmlSourceSrcsetRegex)) {
+    if (match[1] && /^\.?\//g.test(match[1])) {
+      imageSrcs.add(match[1].replace(/^\.?\//g, ""));
+    }
+  }
 
   return Array.from(imageSrcs);
 }
+
 export function parseImageQuery(originalSrc: string) {
   const filenameRegex = /^(.*\/)?(\w[\w.-]*)(\(([^=)]+)=([^)]+)\))*\.svg/;
   const match = originalSrc.match(filenameRegex);
