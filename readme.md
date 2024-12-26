@@ -51,8 +51,8 @@
 
 <a href="https://github.com/masnormen">
 <picture>
-  <source media="(max-width: 1100px)" srcset="./svg/footer(delay=0)(mobile=true).svg" width="100%"/>
-  <img src="./svg/footer(delay=0.3).svg" width="100%"/>
+  <source media="(min-width: 1100px)" srcset="./svg/footer(delay=0.3).svg"/>
+  <img src="./svg/footer(delay=0)(mobile=true).svg" width="100%"/>
 </picture>
 </a>
 
