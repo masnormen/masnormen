@@ -54,6 +54,6 @@
 </a>
 <br/>
 <p align="center">
-<code><sup><sub>this README is made with <b>hono + tailwindcss</b>.</code></sub></sup><code><a href="https://github.com/masnormen/masnormen"><sup><sub>see how.</sub></sup></a></code>
-
+<sub><img height="16" src="https://komarev.com/ghpvc/?username=masnormen" alt="masnormen"/></sub>
+<code><sup><sub>made with <b>hono + tailwindcss</b>. <a href="https://github.com/masnormen/masnormen">see how</a></code>
 </p>
