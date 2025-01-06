@@ -36,9 +36,9 @@
 <br/>
 <code>software engineer with a focus on web technologies.</code>
 <br/>
-​<sub><code>‒ currently crafting highly polished apps, tools, and libraries alike, redefining what's possible with passion™️.</code></sub>
+​<sub><code>currently crafting highly polished apps, tools, and libraries alike, redefining what's possible with passion™️.</code></sub>
 <br/>​
-​​<sub><code>‒ loves open-source. trying my best to contribute back to the community.</code></sub>
+​​<sub><code>loves open-source and trying my best to contribute back to the community.</code></sub>
 <br/>
 <br/>
 ​<sub><code>*) yes, my contribution graph is mostly gray. doesn't mean i'm lazy or dead! maybe i've been busy on:
